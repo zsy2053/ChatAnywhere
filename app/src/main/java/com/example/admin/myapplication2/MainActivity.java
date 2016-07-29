@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     TextView mTextFieldCondition;
     Button mButtonSunny;
     Button mButtonFoggy;
+    Button unknown;
     Firebase mRef;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
