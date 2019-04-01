@@ -8,6 +8,7 @@ import com.google.firebase.database.FirebaseDatabase;
  * Created by admin on 2016/7/29.
  */
 public class CrowdWeather extends android.app.Application {
+  // This is not cool
     @Override
     public void onCreate() {
         int variable;
